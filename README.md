@@ -1,3 +1,4 @@
+
 # Jekyll-Bootstrap-3
 
 Easily publish Bootstrap 3 powered Jekyll sites.  
@@ -29,4 +30,3 @@ For original project's usage and documentation please see: <http://jekyllbootstr
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/jekyll-bootstrap-3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
